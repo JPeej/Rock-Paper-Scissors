@@ -27,4 +27,6 @@ if rps_user == rock and rps_comp == scissors:
   win
 ```
 
-Unfortunately, everytime I ran the program it would always print all three. Needs further research.
+Unfortunately, everytime I ran the program it would always print all three. Needs further research. 
+
+Also, saving the ASCII art on another module and calling upon it would probably look cleaner.
